@@ -1,5 +1,5 @@
 # Blockchain.java
 Contains a basic block
 
-#Main.java
+# Main.java
 Describes a minimal transaction
